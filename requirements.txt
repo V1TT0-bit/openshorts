@@ -1,3 +1,4 @@
+opencv-python-headless
 scenedetect==0.7
 ultralytics==8.4.46
 torch==2.11.0
